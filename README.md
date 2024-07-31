@@ -1,4 +1,4 @@
-# building a backend server in Golang
+# building a rss feed aggregator in Golang
 
 **Disclaimer:**<br />
     All credit goes to Lane Wagner and Boot.dev<br />
