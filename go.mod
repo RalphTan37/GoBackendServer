@@ -1,4 +1,4 @@
-module github.com/RalphTan37/backendserver-go
+module github.com/RalphTan37/rss-feed-aggregator
 
 go 1.22.3
 
