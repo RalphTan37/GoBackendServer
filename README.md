@@ -10,7 +10,7 @@ Building a Backend Server from scratch on a local machine in Go!
 Purpose:<br /> 
     To aggregate data from RSS (Really Simple Syndiation) Feeds - protocol that makes distribution easy
         (such as podcasts and blog posts).<br />
-    The server will allow users to add different RSS feeds to its database and then automatically collect all of the posts from those feeds,<br /> download them, and save them in the database - so they can be viewed later.
+    The server will allow users to add different RSS feeds to its database and then automatically collect all of the posts from those feeds, download them, and save them in the database - so they can be viewed later.
 
 Useful GIT Cmds:<br />
 go mod vendor <br />
