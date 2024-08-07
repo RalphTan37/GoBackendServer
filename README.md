@@ -1,7 +1,7 @@
 # building a rss feed aggregator in golang
 
 **Disclaimer:**<br />
-All credit for the tutorial goes to Lane Wagner and Boot.dev. You can find the tutorial here: YouTube Tutorial. This project is intended for practicing and deepening my interest in Golang. <br />
+All credit for the tutorial goes to Lane Wagner and Boot.dev. You can find the tutorial here: ```https://www.youtube.com/watch?v=un6ZyFkqFKo&list=PLfMXERlSRqK43JjEATKPexyLdo9bl92xd```. This project is intended for practicing and deepening my interest in Golang. <br />
 
 Building a Backend Server from scratch on a local machine in Go!
 
